@@ -1,0 +1,9 @@
+Invoice Number: 1008
+Vendor: NovaTech Solutions
+Invoice Date: 07/10/2026
+Amount Due: $879.40
+
+Items Purchased:
+- External SSD 2TB
+- USB-C Hub
+- Webcam
