@@ -1,0 +1,9 @@
+Invoice #1009
+Vendor: Digital World Ltd.
+Date: 10 Jul 2026
+Total Amount: $599.95
+
+Items:
+- Graphics Tablet
+- Stylus Pen
+- Protective Case
