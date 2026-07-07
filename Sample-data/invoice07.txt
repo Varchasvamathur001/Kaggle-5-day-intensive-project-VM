@@ -1,0 +1,9 @@
+BlueWave Electronics
+
+Invoice #1007
+Date: July 9, 2026
+Total Amount: $1,245.99
+Items:
+- 27-inch Monitor
+- HDMI Cable
+- Wireless Keyboard
