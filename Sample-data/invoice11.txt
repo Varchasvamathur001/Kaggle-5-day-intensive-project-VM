@@ -1,0 +1,9 @@
+Invoice #1011
+Vendor: Prime Components
+Date: July 12, 2026
+Total Amount: $756.80
+
+Items:
+- Motherboard
+- DDR5 RAM Kit
+- CPU Cooler
