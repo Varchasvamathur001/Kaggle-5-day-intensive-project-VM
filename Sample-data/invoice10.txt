@@ -1,0 +1,10 @@
+Metro Computing Services
+
+Invoice ID: 1010
+Date: 2026/07/11
+Grand Total: $2,149.50
+
+Products:
+- Gaming Laptop
+- Wireless Mouse
+- Laptop Sleeve
